@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "maine.h"
+#include "main.h"
 using namespace std;
 
 
